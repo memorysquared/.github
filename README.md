@@ -1,9 +1,8 @@
-# Memory Squared
+<img src="M2-GitHub-Intro.png" alt="Memory Squared" >
 
-> Design-driven software development company building custom digital products and experiences: web applications, mobile apps, AI solutions, IoT solutions, and e-commerce platforms.
+## We are Memory Squared 👋
 
-Memory Squared is a software design and development company based in Kraków, Poland.
-
+We're a design-driven software development company building custom digital products and experiences: web applications, mobile apps, AI solutions, IoT solutions, and e-commerce platforms. 
 We help startups, scaleups, and established organizations worldwide design, build, modernize, and scale digital products. Our team combines product strategy, UX/UI design, software engineering, and AI expertise to deliver solutions we're proud of.
 
 ## Our Services
@@ -20,7 +19,7 @@ Over the last three years, we have worked with clients from **17 countries** and
 
 We were recognized by **SoDA as the Growth Leader of the IT Industry 2025** and have earned **nearly 30 verified 5/5 reviews on Clutch**.
 
-* Explore our portfolio and case studies: https://memory2.co/portfolio
+* Explore our portfolio and case studies: https://memory2.co/case-studies
 * Read our client reviews: https://clutch.co/profile/memory-squared
 
 ## Technology Stack
@@ -30,18 +29,6 @@ We were recognized by **SoDA as the Growth Leader of the IT Industry 2025** and 
 * **Mobile:** React Native, Flutter, Swift, Kotlin
 * **AI:** OpenAI, Gemini, Custom LLM Solutions, AI Workflow Automation
 * **Design:** Figma, UX Design, UI Design, Design Systems, Product Discovery, Interactive Prototyping
-
-## Industries
-
-* Startups
-* SaaS
-* E-commerce
-* Automotive
-* IoT & Wearables
-* FoodTech
-* B2C Digital Products
-* Business Platforms
-* Gamification
 
 ## Let's Build Something Together
 
