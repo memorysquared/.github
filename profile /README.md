@@ -1,4 +1,4 @@
-<img src="M2-GitHub-Intro.png" alt="Memory Squared" >
+<img src="../M2-GitHub-Intro.png" alt="Memory Squared" >
 
 ## We are Memory Squared 👋
 
